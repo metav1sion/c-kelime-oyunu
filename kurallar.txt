@@ -1,0 +1,22 @@
+Kurallar:
+
+1)Cevaplari yazarken buyuk harf kullanmayiniz.
+
+2)Kullanici adi yazarken lutfen tek kelime kullaniniz. Eger 2 kelime kullanacaksaniz birlestiriniz.(orn. koddeneme, deneme1 vb.) 
+
+3)Her harf alisinizda puaninizdan 100 puan duser.
+
+4)Siz kelimeleri bulmaya calisirken arkada gecen sureyi tutan bir sayac vardir ve oyun bitiminde ne kadar zaman harcadiginiz yazacaktir.
+
+5)Puani en yuksek olup ayni zamanda en az surede sorulari cozen kisi kazanir.
+
+6)Alabileceginiz maksimum puan 3000'dir.
+
+7)1'e basarak harf alabilirsiniz.
+
+8)Oyunu oynarken ekrani yana dogru buyutmek sizin icin daha iyi olabilir metinlerin tam sigmasi acisindan.
+
+           _______________________________________________________________________
+          |"BOL SANS!" demek isterdim ama sansi olan degil BILGISI OLAN KAZANACAK!|
+          |_______________________________________________________________________|
+
